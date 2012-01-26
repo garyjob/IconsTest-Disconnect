@@ -1,0 +1,25 @@
+/* TEAM */
+
+	Front-End Developer: Nathan Peretic
+	Company: Full Stop Interactive
+	Contact: nate [at] fullstopinteractive.com
+	Twitter: @nathanperetic
+	From: Pittsburgh, Pennsylvania, USA
+	
+	Designer: Jay Fanelli
+	Company: Full Stop Interactive
+	Contact: jay [at] fullstopinteractive.com
+	Twitter: @jayfanelli
+	From: Pittsburgh, Pennsylvania, USA	
+	
+	Project Manager: Ben Moskowitz
+	Company: Mozilla
+	Contact: ben [at] mozillafoundation.org
+	Twitter: @benrito
+	From: New York City, New York, USA
+	
+	Ideator: Aza Raskin
+	Company: Massive Health
+	Contact: aza@massivehealth.com
+	Twitter: @azaaza
+	From: San Francisco, California, USA
